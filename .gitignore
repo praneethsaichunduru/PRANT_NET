@@ -1,0 +1,8 @@
+check_point/
+results/
+preprocessed_data/
+__pycache__/ 
+*.pyc
+*.m~
+*.ipynb
+data/
